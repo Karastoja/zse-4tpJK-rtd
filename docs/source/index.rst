@@ -34,3 +34,8 @@ Kod::
 .. image:: path/filename.png
   :width: 300
   :alt: Powinno byc a nie ma
+
+.. toctree::
+
+   usage
+   api
