@@ -16,3 +16,7 @@ Akapit tekstu
 
 `Link <youtube.com/>`_
 
+Kod::
+
+   console.log("Działa");
+
