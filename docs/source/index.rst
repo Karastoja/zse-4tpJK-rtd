@@ -20,3 +20,8 @@ Kod::
 
    console.log("Działa");
 
+* list 1
+* list 2
+
+1. List 1
+2. List 2
